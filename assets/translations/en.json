@@ -1,0 +1,15 @@
+{
+  "search_hint": "Search",
+  "loading": "Loading",
+  "no_sensors": "No sensors available",
+  "no_results": "No sensors match \"{query}\"",
+  "error_load": "Failed to load",
+  "error_init": "Failed to initialize",
+  "retry": "Retry",
+  "sensor_name": "Sensor Name",
+  "description": "Description",
+  "save": "Save",
+  "sensor_updated": "Sensor updated",
+  "name_required": "Please enter a sensor name",
+  "description_required": "Please enter a description"
+}
